@@ -8,11 +8,11 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/moton/Documents/gitHub/MAX4466_sample_PlO/include",
-                "C:/Users/moton/Documents/gitHub/MAX4466_sample_PlO/src",
-                "C:/Users/moton/Documents/gitHub/MAX4466_sample_PlO/.pio/libdeps/esp32dev/LiquidCrystal_I2C",
+                "C:/Users/moton/Documents/gitHub/pataka_counter/include",
+                "C:/Users/moton/Documents/gitHub/pataka_counter/src",
+                "C:/Users/moton/Documents/gitHub/pataka_counter/.pio/libdeps/esp32dev/LiquidCrystal_I2C",
                 "C:/Users/moton/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
-                "C:/Users/moton/Documents/gitHub/MAX4466_sample_PlO/.pio/libdeps/esp32dev/movingAvg/src",
+                "C:/Users/moton/Documents/gitHub/pataka_counter/.pio/libdeps/esp32dev/movingAvg/src",
                 "C:/Users/moton/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/moton/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "C:/Users/moton/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -240,11 +240,11 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/moton/Documents/gitHub/MAX4466_sample_PlO/include",
-                    "C:/Users/moton/Documents/gitHub/MAX4466_sample_PlO/src",
-                    "C:/Users/moton/Documents/gitHub/MAX4466_sample_PlO/.pio/libdeps/esp32dev/LiquidCrystal_I2C",
+                    "C:/Users/moton/Documents/gitHub/pataka_counter/include",
+                    "C:/Users/moton/Documents/gitHub/pataka_counter/src",
+                    "C:/Users/moton/Documents/gitHub/pataka_counter/.pio/libdeps/esp32dev/LiquidCrystal_I2C",
                     "C:/Users/moton/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
-                    "C:/Users/moton/Documents/gitHub/MAX4466_sample_PlO/.pio/libdeps/esp32dev/movingAvg/src",
+                    "C:/Users/moton/Documents/gitHub/pataka_counter/.pio/libdeps/esp32dev/movingAvg/src",
                     "C:/Users/moton/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/moton/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "C:/Users/moton/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
